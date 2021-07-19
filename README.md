@@ -2,9 +2,8 @@
 
 This repository contains files supporting the joint NSA, CISA, and FBI Cybsercurity Advisory (CSA) **Chinese State-Sponsored Cyber Operations: Observed TTPs**:
 
-* [Press release](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/tbd)
-* [Infographic](https://media.defense.gov/tbd)
-* [CSA](https://media.defense.gov/tbd)
+* [Press release](https://www.nsa.gov/news-features/press-room/Article/2698416/nsa-cisa-and-fbi-detail-chinese-state-sponsored-actions-mitigations/)
+* [CSA](https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF)
 
 ## Background
 
