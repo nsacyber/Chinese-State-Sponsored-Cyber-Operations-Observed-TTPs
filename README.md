@@ -17,11 +17,11 @@ The [JSON file](./Chinese_State-Sponsored_Cyber_Operations_Observed_TTPs.json) p
 2. Click **Open Existing Layer**
 3. Choose one of:
  
-    Download the [JSON file](./Chinese_State-Sponsored_Cyber_Operations_Observed_TTPs.json), click **Upload from local**, and select the downloaded file
+    Download the [JSON file](https://raw.githubusercontent.com/nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs/master/Chinese_State-Sponsored_Cyber_Operations_Observed_TTPs.json), click **Upload from local**, and select the downloaded file
     
     or 
     
-    Copy the URL of `https://raw.githubusercontent.com/nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs/master/Chinese_State-Sponsored_Cyber_Operations_Observed_TTPs.json` into the **Load from URL** field
+    Copy the URL of `https://raw.githubusercontent.com/nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs/master/Chinese_State-Sponsored_Cyber_Operations_Observed_TTPs.json` into the **Load from URL** field and click the **>** character to the right of the field
     
 Alternative, click [this link](https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2Fnsacyber%2FChinese-State-Sponsored-Cyber-Operations-Observed-TTPs%2Fmaster%2FChinese_State-Sponsored_Cyber_Operations_Observed_TTPs.json) to view the content directly in the Navigator.
 
